@@ -1,0 +1,5 @@
+"John","Doe",12345,"john@gmail.com","2015/07/01 11:18:00","personal"
+"Bob","Marley",23987,"bob@gmail.com","2018/06/04 12:10:00","business"
+"Claire","Bennet",3492343,"claire@gmail.com","2018/07/01 15:12:00","personal"
+"Peter","Noah",98765,"peter@gmail.com","2014/07/01 15:18:00","business"
+"Syler","Hero",1234556,"Syler@gmail.com","2012/07/01 15:18:00","personal"
